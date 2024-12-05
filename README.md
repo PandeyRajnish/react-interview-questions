@@ -19,3 +19,19 @@ Whether you're looking to refresh your React knowledge, test your skills, or pre
 
 | Feel free to use them in a project! 😃 I would _really_ appreciate a reference to this repo, I create the questions and explanations (yes I'm sad lol) and the community helps me so much to maintain and improve it! 💪🏼 Thank you and have fun! |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+---
+
+###### 1. What is React?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+React (also known as `React.js` or `ReactJS`) is an open source frontend javascript library that is used for building UIs, especially for single-page and mobile applications. It is used for handling the view layer of web and mobile applications.
+
+`React` was created by `Jordan Walke,` a software engineer working for Facebook, and later maintained by the Facebook team. `React` was first deployed on Facebook's newsfeed in 2011 and on Instagram in 2012.
+
+</p>
+</details>
+
+---
